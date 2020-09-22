@@ -1,5 +1,3 @@
-import re
-
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         p = re.compile('[a-zA-Z0-9]')
@@ -16,6 +14,6 @@ class Solution:
             return True
 
 '''
-Runtime: 84 ms, faster than 12.04% of Python3 online submissions for Valid Palindrome.
-Memory Usage: 20.3 MB, less than 5.03% of Python3 online submissions for Valid Palindrome.
+Runtime: 56 ms, faster than 41.36% of Python3 online submissions for Valid Palindrome.
+Memory Usage: 20.4 MB, less than 5.03% of Python3 online submissions for Valid Palindrome.
 '''
