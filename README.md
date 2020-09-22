@@ -4,4 +4,5 @@
 
 ### Solved Problems
 
-- 125&#46; valid-palindrome [[Python](valid-palindrome)]
+- 125&#46; Valid Palindrome [[Python](valid-palindrome)]
+- 344&#46; Reverse String [[Python](reverse-string)]
