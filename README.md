@@ -2,4 +2,4 @@
 
 ### Solved Problems
 
-- 125. valid-palindrome [[Python](valid-palindrome)]
+- 125 valid-palindrome [[Python](valid-palindrome)]
