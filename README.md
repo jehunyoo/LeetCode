@@ -1,6 +1,6 @@
 # LeetCode
 
-### [Wiki](https://github.com/JehunYoo/LeetCode/wiki)
+### Check [Wiki](https://github.com/JehunYoo/LeetCode/wiki)!
 
 ### Solved Problems
 
