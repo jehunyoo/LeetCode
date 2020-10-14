@@ -4,7 +4,7 @@
 
 ### Solved Problems
 
-- 5&#46; Longest Palindromic Substring [[Python](longest-palindromic-substring.py)]
+- 5&#46; Longest Palindromic Substring (⭐️) [[Python](longest-palindromic-substring.py)]
 - 20&#46; Valid Parentheses [[Python](valid-parentheses.py)]
 - 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
