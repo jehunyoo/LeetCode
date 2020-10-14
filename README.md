@@ -5,6 +5,7 @@
 ### Solved Problems
 
 - 20&#46; Valid Parentheses [[Python](valid-parentheses.py)]
+- 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
 - 344&#46; Reverse String [[Python](reverse-string.py)]
 - 819&#46; Most Common Word [[Python](most-common-word.py)]
