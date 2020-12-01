@@ -10,6 +10,7 @@
 - 21&#46; Merge Two Sorted Lists [[Python](merge-two-sorted-lists.py)]
 - 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
+- 206&#46; Reverse Linked List [[Python](reverse-linked-list.py)]
 - 234&#46; Palindrome Linked List [[Python](palindrome-linked-list.py)]
 - 344&#46; Reverse String [[Python](reverse-string.py)]
 - 561&#46; Array Partition I [[Python](array-partition-i.py)]
