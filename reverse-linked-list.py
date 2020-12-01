@@ -13,7 +13,7 @@ class Solution:
             tail, tail.next, head = head, tail, head.next
         return tail
 
-    # recursion :
+    # recursion : O(n), O(n)
     def reverseList(self, head: ListNode) -> ListNode:
         def reverse(head: ListNode, tail: ListNode = None):
             if not head:
