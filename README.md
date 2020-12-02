@@ -9,6 +9,7 @@
 - 5&#46; Longest Palindromic Substring (⭐️) [[Python](longest-palindromic-substring.py)]
 - 20&#46; Valid Parentheses [[Python](valid-parentheses.py)]
 - 21&#46; Merge Two Sorted Lists [[Python](merge-two-sorted-lists.py)]
+- 24&#46; Swap Nodes in Pairs [[Python](swap-nodes-in-pairs.py)]
 - 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
 - 206&#46; Reverse Linked List [[Python](reverse-linked-list.py)]
