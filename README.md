@@ -14,6 +14,7 @@
 - 92&#46; Reverse Linked List II [[Python](reverse-linked-list-ii.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
 - 206&#46; Reverse Linked List [[Python](reverse-linked-list.py)]
+- 225&#46; Implement Stack using Queues [[Python](implement-stack-using-queues.py)]
 - 234&#46; Palindrome Linked List (⭐️) [[Python](palindrome-linked-list.py)]
 - 316&#46; Remove Duplicate Letters [[Python](remove-duplicate-letters.py)]
 - 328&#46; Odd Even Linked List [[Python](odd-even-linked-list.py)]
