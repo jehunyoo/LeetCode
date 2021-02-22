@@ -1,8 +1,8 @@
 # LeetCode
 
-### Check [Wiki](https://github.com/JehunYoo/LeetCode/wiki)!
+## Check [Wiki](https://github.com/JehunYoo/LeetCode/wiki)!
 
-### Solved Problems
+## Solved Problems
 
 - 1&#46; Two Sum (⭐️) [[Python](two-sum.py)]
 - 2&#46; Add Two Numbers [[Python](add-two-numbers.py)]
