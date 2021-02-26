@@ -20,6 +20,7 @@
 - 316&#46; Remove Duplicate Letters [[Python](remove-duplicate-letters.py)]
 - 328&#46; Odd Even Linked List [[Python](odd-even-linked-list.py)]
 - 344&#46; Reverse String [[Python](reverse-string.py)]
+- 347&#46; Top K Frequent Elements [[Python](top-k-frequent-elements.py)]
 - 561&#46; Array Partition I [[Python](array-partition-i.py)]
 - 706&#46; Design HashMap [[Python](design-hashmap.py)]
 - 739&#46; Daily Temperatures [[Python](daily-temperatures.py)]
