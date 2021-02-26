@@ -21,6 +21,7 @@
 - 328&#46; Odd Even Linked List [[Python](odd-even-linked-list.py)]
 - 344&#46; Reverse String [[Python](reverse-string.py)]
 - 561&#46; Array Partition I [[Python](array-partition-i.py)]
+- 706&#46; Design HashMap [[Python](design-hashmap.py)]
 - 739&#46; Daily Temperatures [[Python](daily-temperatures.py)]
 - 819&#46; Most Common Word [[Python](most-common-word.py)]
 - 937&#46; Reorder Data in Log Files [[Python](reorder-data-in-log-files.py)]
