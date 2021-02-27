@@ -14,6 +14,7 @@
 - 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 92&#46; Reverse Linked List II [[Python](reverse-linked-list-ii.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
+- 200&#46; Number of Islands [[Python](number-of-islands.py)]
 - 206&#46; Reverse Linked List [[Python](reverse-linked-list.py)]
 - 225&#46; Implement Stack using Queues [[Python](implement-stack-using-queues.py)]
 - 234&#46; Palindrome Linked List (⭐️) [[Python](palindrome-linked-list.py)]
