@@ -17,6 +17,7 @@
 - 46&#46; Permutations [[Python](permutations.py)]
 - 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 77&#46; Combinations [[Python](combinations.py)]
+- 78&#46; Subsets [[Python](subsets.py)]
 - 92&#46; Reverse Linked List II [[Python](reverse-linked-list-ii.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
 - 200&#46; Number of Islands [[Python](number-of-islands.py)]
