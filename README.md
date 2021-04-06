@@ -34,6 +34,6 @@
 - 739&#46; Daily Temperatures [[Python](daily-temperatures.py)]
 - 743&#46; Network Delay Time [[Python](network-delay-time.py)]
 - 771&#46; Jewels and Stones [[Python](jewels-and-stones.py)]
-- 787&#46; Cheapest Flights Within K Stops [[Python](cheapest-flights-within-k-stops.py)]
+- 787&#46; Cheapest Flights Within K Stops (⭐️) [[Python](cheapest-flights-within-k-stops.py)]
 - 819&#46; Most Common Word [[Python](most-common-word.py)]
 - 937&#46; Reorder Data in Log Files [[Python](reorder-data-in-log-files.py)]
