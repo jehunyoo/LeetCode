@@ -32,6 +32,7 @@
 - 347&#46; Top K Frequent Elements [[Python](top-k-frequent-elements.py)]
 - 543&#46; Diameter of Binary Tree [[Python](diameter-of-binary-tree.py)]
 - 561&#46; Array Partition I [[Python](array-partition-i.py)]
+- 687&#46; Longest Univalue Path (⭐️) [[Python](longest-univalue-path.py)]
 - 706&#46; Design HashMap [[Python](design-hashmap.py)]
 - 739&#46; Daily Temperatures [[Python](daily-temperatures.py)]
 - 743&#46; Network Delay Time [[Python](network-delay-time.py)]
