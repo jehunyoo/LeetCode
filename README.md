@@ -28,6 +28,7 @@
 - 226&#46; Invert Binary Tree [[Python](invert-binary-tree.py)]
 - 234&#46; Palindrome Linked List (⭐️) [[Python](palindrome-linked-list.py)]
 - 297&#46; Serialize and Deserialize Binary Tree [[Python](serialize-and-deserialize-binary-tree.py)]
+- 310&#46; Minimum Height Trees (⭐️) [[Python](minimum-height-trees.py)]
 - 316&#46; Remove Duplicate Letters [[Python](remove-duplicate-letters.py)]
 - 328&#46; Odd Even Linked List [[Python](odd-even-linked-list.py)]
 - 332&#46; Reconstruct Itinerary (⭐️) [[Python](reconstruct-itinerary.py)]
