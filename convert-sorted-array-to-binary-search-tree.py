@@ -5,6 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # Divide and Conquer
     def sortedArrayToBST(self, nums: List[int]) -> TreeNode:
         if nums:
             mid = len(nums) // 2
