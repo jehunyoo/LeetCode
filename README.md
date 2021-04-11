@@ -35,6 +35,7 @@
 - 332&#46; Reconstruct Itinerary (⭐️) [[Python](reconstruct-itinerary.py)]
 - 344&#46; Reverse String [[Python](reverse-string.py)]
 - 347&#46; Top K Frequent Elements [[Python](top-k-frequent-elements.py)]
+- 538&#46; Convert BST to Greater Tree (⭐️) [[Python](convert-bst-to-greater-tree.py)]
 - 543&#46; Diameter of Binary Tree [[Python](diameter-of-binary-tree.py)]
 - 561&#46; Array Partition I [[Python](array-partition-i.py)]
 - 617&#46; Merge Two Binary Trees (⭐️) [[Python](merge-two-binary-trees.py)]
@@ -46,4 +47,4 @@
 - 787&#46; Cheapest Flights Within K Stops (⭐️) [[Python](cheapest-flights-within-k-stops.py)]
 - 819&#46; Most Common Word [[Python](most-common-word.py)]
 - 937&#46; Reorder Data in Log Files [[Python](reorder-data-in-log-files.py)]
-- 1038&#46; Binary Search Tree to Greater Sum Tree [[Python](binary-search-tree-to-greater-sum-tree.py)]
+- 1038&#46; Binary Search Tree to Greater Sum Tree (⭐️) [[Python](binary-search-tree-to-greater-sum-tree.py)]
