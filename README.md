@@ -35,6 +35,7 @@
 - 316&#46; Remove Duplicate Letters [[Python](remove-duplicate-letters.py)]
 - 328&#46; Odd Even Linked List [[Python](odd-even-linked-list.py)]
 - 332&#46; Reconstruct Itinerary (⭐️) [[Python](reconstruct-itinerary.py)]
+- 336&#46; Palindrome Pairs (⭐️) [[Python](palindrome-pairs.py)]
 - 344&#46; Reverse String [[Python](reverse-string.py)]
 - 347&#46; Top K Frequent Elements [[Python](top-k-frequent-elements.py)]
 - 530&#46; Minimum Absolute Difference in BST [[Python](minimum-absolute-difference-in-bst.py)]
