@@ -15,3 +15,9 @@ class Solution:
             palindrome = max(palindrome, findPalindrome(i, i + 2), findPalindrome(i, i + 3), key=len)
         
         return palindrome
+    
+    def longestPalindrome(self, s: str) -> str:
+        for length in range(len(s), 0, -1):
+            for i in range(len(s) - length + 1):
+                if s[i:i+length] == s[i:i+length][::-1]:
+                    return s[i:i+length]
