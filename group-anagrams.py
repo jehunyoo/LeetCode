@@ -8,7 +8,7 @@ class Solution:
         return list(anagrams.values())
 
 
-    def groupAnagrams2(self, strs: List[str]) -> List[List[str]]:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         anagrams = []
         std = []
         
@@ -20,3 +20,10 @@ class Solution:
                 std.append(ss)
                 anagrams.append([s])
         return anagrams
+    
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        groups = collections.defaultdict(list)
+        for word in strs:
+            groups[frozenset(collections.Counter(word).most_common())].append(word)
+        
+        return list(groups.values)
