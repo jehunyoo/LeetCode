@@ -38,6 +38,7 @@
 - 336&#46; Palindrome Pairs (⭐️) [[Python](palindrome-pairs.py)]
 - 344&#46; Reverse String [[Python](reverse-string.py)]
 - 347&#46; Top K Frequent Elements [[Python](top-k-frequent-elements.py)]
+- 349&#46; Intersection of Two Arrays [[Python](intersection-of-two-arrays.py)]
 - 530&#46; Minimum Absolute Difference in BST [[Python](minimum-absolute-difference-in-bst.py)]
 - 538&#46; Convert BST to Greater Tree (⭐️) [[Python](convert-bst-to-greater-tree.py)]
 - 543&#46; Diameter of Binary Tree [[Python](diameter-of-binary-tree.py)]
