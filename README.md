@@ -31,6 +31,7 @@
 - 225&#46; Implement Stack using Queues [[Python](implement-stack-using-queues.py)]
 - 226&#46; Invert Binary Tree [[Python](invert-binary-tree.py)]
 - 234&#46; Palindrome Linked List (⭐️) [[Python](palindrome-linked-list.py)]
+- 240&#46; Search a 2D Matrix II [[Python](search-a-2d-matrix-ii.py)]
 - 297&#46; Serialize and Deserialize Binary Tree [[Python](serialize-and-deserialize-binary-tree.py)]
 - 310&#46; Minimum Height Trees (⭐️) [[Python](minimum-height-trees.py)]
 - 316&#46; Remove Duplicate Letters [[Python](remove-duplicate-letters.py)]
