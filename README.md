@@ -23,6 +23,7 @@
 - 108&#46; Convert Sorted Array to Binary Search Tree [[Python](convert-sorted-array-to-binary-search-tree.py)]
 - 110&#46; Balanced Binary Tree [[Python](balanced-binary-tree.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
+- 136&#46; Single Number (⭐️) [[Python](single-number.py)]
 - 167&#46; Two Sum II - Input Array Is Sorted [[Python](two-sum-ii-input-array-is-sorted.py)]
 - 200&#46; Number of Islands [[Python](number-of-islands.py)]
 - 206&#46; Reverse Linked List [[Python](reverse-linked-list.py)]
