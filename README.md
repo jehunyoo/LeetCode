@@ -48,6 +48,7 @@
 - 349&#46; Intersection of Two Arrays (⭐️) [[Python](intersection-of-two-arrays.py)]
 - 371&#46; Sum of Two Integers (⭐️) [[Python](sum-of-two-integers.py)]
 - 393&#46; UTF-8 Validation [[Python](utf-8-validation.py)]
+- 406&#46; Queue Reconstruction by Height (⭐️) [[Python](queue-reconstruction-by-height.py)]
 - 424&#46; Longest Repeating Character Replacement [[Python](longest-repeating-character-replacement.py)]
 - 461&#46; Hamming Distance [[Python](hamming-distance.py)]
 - 530&#46; Minimum Absolute Difference in BST [[Python](minimum-absolute-difference-in-bst.py)]
