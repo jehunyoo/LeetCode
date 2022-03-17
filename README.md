@@ -56,6 +56,7 @@
 - 543&#46; Diameter of Binary Tree [[Python](diameter-of-binary-tree.py)]
 - 561&#46; Array Partition I [[Python](array-partition-i.py)]
 - 617&#46; Merge Two Binary Trees (⭐️) [[Python](merge-two-binary-trees.py)]
+- 621&#46; Task Scheduler [[Python](task-scheduler.py)]
 - 687&#46; Longest Univalue Path (⭐️) [[Python](longest-univalue-path.py)]
 - 704&#46; Binary Search [[Python](binary-search.py)]
 - 706&#46; Design HashMap [[Python](design-hashmap.py)]
