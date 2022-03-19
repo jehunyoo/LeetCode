@@ -39,6 +39,7 @@
 - 234&#46; Palindrome Linked List (⭐️) [[Python](palindrome-linked-list.py)]
 - 239&#46; Sliding Window Maximum (⭐️) [[Python](sliding-window-maximum.py)]
 - 240&#46; Search a 2D Matrix II [[Python](search-a-2d-matrix-ii.py)]
+- 241&#46; Different Ways to Add Parentheses [[Python](different-ways-to-add-parentheses.py)]
 - 297&#46; Serialize and Deserialize Binary Tree [[Python](serialize-and-deserialize-binary-tree.py)]
 - 310&#46; Minimum Height Trees (⭐️) [[Python](minimum-height-trees.py)]
 - 316&#46; Remove Duplicate Letters [[Python](remove-duplicate-letters.py)]
