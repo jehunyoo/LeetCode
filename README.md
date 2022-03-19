@@ -28,6 +28,7 @@
 - 134&#46; Gas Station (⭐️) [[Python](gas-station.py)]
 - 136&#46; Single Number (⭐️) [[Python](single-number.py)]
 - 167&#46; Two Sum II - Input Array Is Sorted [[Python](two-sum-ii-input-array-is-sorted.py)]
+- 169&#46; Majority Element [[Python](majority-element.py)]
 - 191&#46; Number of 1 Bits (⭐️) [[Python](number-of-1-bits.py)]
 - 200&#46; Number of Islands [[Python](number-of-islands.py)]
 - 206&#46; Reverse Linked List [[Python](reverse-linked-list.py)]
