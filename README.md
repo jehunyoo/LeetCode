@@ -17,6 +17,7 @@
 - 46&#46; Permutations [[Python](permutations.py)]
 - 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 53&#46; Maximum Subarray [[Python](maximum-subarray.py)]
+- 70&#46; Climbing Stairs [[Python](climbing-stairs.py)]
 - 76&#46; Minimum Window Substring (⭐️) [[Python](minimum-window-substring.py)]
 - 77&#46; Combinations [[Python](combinations.py)]
 - 78&#46; Subsets [[Python](subsets.py)]
