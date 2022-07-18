@@ -14,6 +14,7 @@
 - 23&#46; Merge k Sorted Lists [[Python](merge-k-sorted-lists.py)]
 - 24&#46; Swap Nodes in Pairs [[Python](swap-nodes-in-pairs.py)]
 - 39&#46; Combination Sum [[Python](combination-sum.py)]
+- 42&#46; Trapping Rain Water (⭐️⭐️⭐️⭐️⭐️) [[Python](trapping-rain-water.py)]
 - 46&#46; Permutations [[Python](permutations.py)]
 - 49&#46; Group Anagrams [[Python](group-anagrams.py)]
 - 53&#46; Maximum Subarray [[Python](maximum-subarray.py)]
