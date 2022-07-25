@@ -8,6 +8,7 @@
 - 2&#46; Add Two Numbers [[Python](add-two-numbers.py)]
 - 3&#46; Longest Substring Without Repeating Characters (⭐️) [[Python](longest-substring-without-repeating-characters.py)]
 - 5&#46; Longest Palindromic Substring (⭐️) [[Python](longest-palindromic-substring.py)]
+- 15&#46; 3Sum (⭐️) [[Python](3sum.py)]
 - 17&#46; Letter Combinations of a Phone Number [[Python](letter-combinations-of-a-phone-number.py)]
 - 20&#46; Valid Parentheses [[Python](valid-parentheses.py)]
 - 21&#46; Merge Two Sorted Lists [[Python](merge-two-sorted-lists.py)]
