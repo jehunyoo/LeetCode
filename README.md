@@ -27,6 +27,7 @@
 - 104&#46; Maximum Depth of Binary Tree [[Python](maximum-depth-of-binary-tree.py)]
 - 108&#46; Convert Sorted Array to Binary Search Tree [[Python](convert-sorted-array-to-binary-search-tree.py)]
 - 110&#46; Balanced Binary Tree [[Python](balanced-binary-tree.py)]
+- 121&#46; Best Time to Buy and Sell Stock [[Python](best-time-to-buy-and-sell-stock.py)]
 - 122&#46; Best Time to Buy and Sell Stock II [[Python](best-time-to-buy-and-sell-stock-ii.py)]
 - 125&#46; Valid Palindrome [[Python](valid-palindrome.py)]
 - 134&#46; Gas Station (⭐️) [[Python](gas-station.py)]
