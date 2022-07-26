@@ -6,6 +6,32 @@
 
 
 class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        node = head = ListNode()
+        carry = 0
+        
+        while l1 and l2:
+            value = l1.val + l2.val + carry
+            carry, node.val = divmod(value, 10)
+            node.next = ListNode()
+            prev = node
+            node, l1, l2 = node.next, l1.next, l2.next
+        
+        ll = l1 or l2
+        while ll:
+            value = ll.val + carry
+            carry, node.val = divmod(value, 10)
+            node.next = ListNode()
+            prev = node
+            node, ll = node.next, ll.next
+        
+        if carry:
+            node.val = 1
+        else:
+            prev.next = None
+        
+        return head
+
     # move all nodes to l1, swap : O(n), O(1)
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         head = l1
