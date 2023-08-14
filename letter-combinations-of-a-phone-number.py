@@ -17,3 +17,20 @@ class Solution:
         
         search()
         return answer
+
+    def letterCombinations(self, digits: str) -> List[str]:
+        if not digits:
+            return []
+
+        mapper = {"2": "abc", "3": "def", "4": "ghi", "5": "jkl", "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz"}
+        stack = [""]
+        answer = []
+        while stack:
+            s = stack.pop()
+            if len(s) == len(digits):
+                answer.append(s)
+                continue
+            for ch in mapper[digits[len(s)]]:
+                stack.append(s + ch)
+        
+        return answer
