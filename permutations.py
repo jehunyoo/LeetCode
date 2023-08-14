@@ -16,3 +16,19 @@ class Solution:
         
         search()
         return answer
+    
+    # DFS, iteration
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        stack = [([], set())]
+        permutations = []
+        
+        while stack:
+            p, used = stack.pop()
+            if len(p) == len(nums):
+                permutations.append(p)
+                continue
+            for i, num in enumerate(nums):
+                if i not in used:
+                    stack.append(([n for n in p] + [num], {idx for idx in used} | {i}))
+        
+        return permutations
