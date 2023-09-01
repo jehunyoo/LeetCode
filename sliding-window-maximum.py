@@ -1,4 +1,21 @@
 class Solution:
+    # heap
+    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        answer = []
+        heap = []
+        index = 0
+        for index in range(len(nums)):
+            heapq.heappush(heap, (-nums[index], index))
+            if index + 1 >= k:
+                while not (index - k < heap[0][1] <= index):
+                    heapq.heappop(heap)
+                num, where = heapq.heappop(heap)
+                num = -num
+                answer.append(num)
+                heapq.heappush(heap, (-num, where))
+        
+        return answer
+
     # O(n), without max(), queue : Accepted
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         answer = []
